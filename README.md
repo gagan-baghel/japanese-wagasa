@@ -1,14 +1,12 @@
 # Wagasa
 
-<p align="center">
-  <img src="./public/appScreenshot.png" alt="Wagasa homepage hero" width="48%" />
-  <img src="./public/appScreenshot2.png" alt="Wagasa collection chapter" width="48%" />
-</p>
-<p align="center">
-  <img src="./public/appScreenshot3.png" alt="Wagasa ritual section" width="31%" />
-  <img src="./public/appScreenshot4.png" alt="Wagasa configurator section" width="31%" />
-  <img src="./public/appScreenshot5.png" alt="Wagasa philosophy section" width="31%" />
-</p>
+
+![Wagasa homepage hero section](./public/appScreenshot.png)
+![Wagasa collection chapter](./public/appScreenshot2.png)
+![Wagasa ritual storytelling section](./public/appScreenshot3.png)
+![Wagasa design and configurator section](./public/appScreenshot4.png)
+![Wagasa philosophy closing section](./public/appScreenshot5.png)
+
 
 An immersive horizontal storytelling website inspired by traditional Japanese wagasa craftsmanship. The experience is built as a cinematic single-page journey with layered imagery, ambient transitions, and a bespoke reading section that explores color, season, and symbolism.
 
